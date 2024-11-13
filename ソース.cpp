@@ -35,3 +35,7 @@ struct Worder {
 	FixedBitSet Word;
 	ClojuerII Magic;
 };
+struct Economist {
+	Type Word;
+	ClojuerII Magic;
+};
